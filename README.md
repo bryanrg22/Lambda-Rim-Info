@@ -291,7 +291,7 @@ My hackathon wins and in‑office stints at top quant/software firms (Jane Stree
 
 ## More About Me!
 
-**Bryan Ramirez‑Gonzalez** – 3x Hackathon Winner, First‑gen Latino, Undergrad Honors CS @ USC '28, Hackathon‑addict, Aspiring Quant \ Start-up
+**Bryan Ramirez‑Gonzalez** – 3x Hackathon Winner, First‑gen Latino, Undergrad Honors CS @ USC '28, Hackathon‑addict\
 *Let’s connect →*
 - Website: [bryanram.com](http://bryanram.com) - Learn More about Me Here!
 - Resume: [bryanram.com/resume.pdf](http://bryanram.com/resume.pdf)
