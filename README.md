@@ -20,6 +20,23 @@ Behind that single answer sits a full pipeline—OCR → feature engineering �
 
 ---
 
+## Table of Contents
+
+* What is Lambda Rim?
+* 🚀 Current Project Overview
+* 🛠️ Tech Stack at a Glance
+* System Architecture
+* Automated OCR to Prediction Pipeline
+* Google Cloud Functions Architecture
+* 📊 More on the Probability & Forecasting Methods
+  * 🔢 Poisson Probability
+  * 🎲 Monte Carlo Probability
+  * 📈 GARCH Volatility Forecast
+* Database Schema Design
+* What Does the Future Hold for Lambda Rim ?
+* 🔍 Next Steps of Action
+* More About Me!
+
 ## 🚀 Current Project Overview
 
 - **Objective:** Predict NBA Player 'Point' performances (“Over” Picks) using Statistical models (Poisson, Monte Carlo, GARCH volatility) and AI-driven explanations.  
